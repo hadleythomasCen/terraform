@@ -1,3 +1,5 @@
+This is the code from this morings session.
+
 # Learn Terraform - Lambda functions and API Gateway
 
 AWS Lambda functions and API gateway are often used to create serverless
